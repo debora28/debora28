@@ -1,6 +1,6 @@
-### Hi there! 👋
+## Hi there! 👋
 
-![Image female coder cat](https://octodex.github.com/femalecodertocat/)
+![Image Femalecodertocat](https://octodex.github.com/femalecodertocat.png)
 
 - 🔭 I’m currently working on a ReactJS/NodeJS project
 - 🌱 I’m learning Python for Data Science
