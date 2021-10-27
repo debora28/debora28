@@ -1,6 +1,6 @@
 ## Hi there!
 
-- 🔭 I’m currently working on a ReactJS/NodeJS project;
+- 🔭 I’m currently working on a ReactJS/NodeJS project and a Data Science project;
 - 🌱 I’m learning Python for Data Science;
 - 😄 How to reach me: `debrarafaela@gmail.com`.
 
@@ -9,6 +9,6 @@
 
 
 
-<!-- ![Debora's GitHub stats](https://github-readme-stats.vercel.app/api?username=debora28&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
+![Debora's GitHub stats](https://github-readme-stats.vercel.app/api?username=debora28&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
