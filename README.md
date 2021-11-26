@@ -5,6 +5,11 @@
 - I’m learning Python for Data Science;
 - How to reach me: `debrarafaela@gmail.com`.
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debora28&langs_count=5)](https://github.com/debora28/github-readme-stats)
 
