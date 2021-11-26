@@ -5,9 +5,9 @@
 - I’m learning Python for Data Science;
 - How to reach me: `debrarafaela@gmail.com`.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/debora28/)](https://github.com/debora28/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/deboracaldas-rmc/)]( https://www.linkedin.com/in/deboracaldas-rmc/)
 
 
 
@@ -15,6 +15,6 @@
 
 
 
-![Debora's GitHub stats](https://github-readme-stats.vercel.app/api?username=debora28&include_all_commits=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Debora's GitHub stats](https://github-readme-stats.vercel.app/api?username=debora28&include_all_commits=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=jolly)
 
 
