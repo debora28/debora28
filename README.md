@@ -1,4 +1,4 @@
-## Hi there!
+## Hi there! I'm Débora Caldas
 
 - I’m currently working on a ReactJS/NodeJS dashboard project;
 - I'm also participating in a Data Science project;
