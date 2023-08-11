@@ -1,6 +1,7 @@
 ## Hi there! 
 
 - I’m currently working at Di2Win company as a Business Analyst;
+- I'm studying C# at the moment;
 - How to reach me: `debrarafaela@gmail.com`.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/debora28/github-readme-stats)](https://github.com/debora28/github-readme-stats)
