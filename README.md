@@ -1,7 +1,8 @@
 ## Hi there! 
 
-- I’m currently working at Di2Win company as a Business Analyst;
-- I'm studying C# at the moment;
+- I’m an employee at Di2Win company, but I'm currently allocated at Excelsior Insurance Company as a Systems Analyst;
+- I work with .NET Framework, .NET 6, Windows Background Service and SQL Sever databases;
+- At the moment, I'm studying Python for Data Science, Machine Learning and AI purposes;
 - How to reach me: `debrarafaela@gmail.com`.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/debora28/github-readme-stats)](https://github.com/debora28/github-readme-stats)
