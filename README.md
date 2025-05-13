@@ -1,7 +1,7 @@
 ## Hi there! 
 
 - I’m an employee at Di2Win company, but I'm currently allocated at Excelsior Insurance Company as a Systems Analyst;
-- I work with .NET Framework, .NET 6, Windows Background Service and SQL Sever databases;
+- I work with .NET Framework, .NET 6, Windows Background Service and SQL Sever database;
 - At the moment, I'm studying Python for Data Science, Machine Learning and AI purposes;
 - How to reach me: `debrarafaela@gmail.com`.
 
