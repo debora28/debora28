@@ -16,6 +16,6 @@
 
 
 
-![Debora's GitHub stats](https://github-readme-stats.vercel.app/api?username=debora28&include_all_commits=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=jolly)
+![Debora's GitHub stats]([https://github-readme-stats.vercel.app/api?username=debora28&include_all_commits=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=jolly](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent))
 
 
