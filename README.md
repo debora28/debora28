@@ -16,6 +16,6 @@
 
 
 
-![Debora's GitHub stats](https://github-readme-stats.vercel.app/api?username=debora28&show_icons=true&theme=transparent)
+![Debora's GitHub stats](https://github-readme-stats.vercel.app/api?username=debora28&show_icons=true&theme=ambient_gradient)
 
 
